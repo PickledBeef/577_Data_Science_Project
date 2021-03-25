@@ -24,9 +24,9 @@
 - List all databases
 >`\l`
 - Connect to a specific database
-        `\c t81577`
+<br/><br/>`\c t81577`
 - List all tables
-        `\dt`
+<br/>`\dt`
 - Show content of a tables
 >`select * from cities`
     
