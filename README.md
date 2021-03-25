@@ -12,22 +12,22 @@
 
 ### Interact with Windows Powershell:
 - Start the server
->`pg_ctl -D "C:\Program Files\PostgreSQL\13\data" start`
+<br/>`pg_ctl -D "C:\Program Files\PostgreSQL\13\data" start`
 - Stop the server
->`pg_ctl -D "C:\Program Files\PostgreSQL\13\data" stop`
+<br/>`pg_ctl -D "C:\Program Files\PostgreSQL\13\data" stop`
 - Restart the server
->`pg_ctl -D "C:\Program Files\PostgreSQL\13\data" restart`    
+<br/>`pg_ctl -D "C:\Program Files\PostgreSQL\13\data" restart`    
 - Connect database with username
->`psql --username=postgres`
+<br/>`psql --username=postgres`
 
 ### About psql prompt after connect
 - List all databases
->`\l`
+<br/>`\l`
 - Connect to a specific database
-<br/><br/>`\c t81577`
+<br/>`\c t81577`
 - List all tables
 <br/>`\dt`
 - Show content of a tables
->`select * from cities`
+<br/>`select * from cities`
     
 
