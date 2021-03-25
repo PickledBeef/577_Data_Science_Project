@@ -8,26 +8,26 @@
 - notebook: Storing all notebooks includeing EDA and modeling stage.
 
 ### About database I used:
-- [PostgreSQL]: The World's Most Advanced Open Source Relational Database(https://www.postgresql.org/)
+- [PostgreSQL](https://www.postgresql.org/): The World's Most Advanced Open Source Relational Database
 
 ### Interact with Windows Powershell:
 - Start the server
-    pg_ctl -D "C:\Program Files\PostgreSQL\13\data" start
+    ```pg_ctl -D "C:\Program Files\PostgreSQL\13\data" start```
 - Stop the server
-    pg_ctl -D "C:\Program Files\PostgreSQL\13\data" stop
+    ```pg_ctl -D "C:\Program Files\PostgreSQL\13\data" stop```
 - Restart the server
-    pg_ctl -D "C:\Program Files\PostgreSQL\13\data" restart    
+    ```pg_ctl -D "C:\Program Files\PostgreSQL\13\data" restart```    
 - Connect database with username
-    psql --username=postgres
+-->psql --username=postgres
 
 ### About psql prompt after connect
 - List all databases
-    \l
+    `\l`
 - Connect to a specific database
-    \c t81577
+    `\c t81577`
 - List all tables
-    \dt
+    `\dt`
 - Show content of a tables
-    select \* from cities
+    `select \* from cities`
     
 
