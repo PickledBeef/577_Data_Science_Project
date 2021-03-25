@@ -12,7 +12,7 @@
 
 ### Interact with Windows Powershell:
 - Start the server
-    ```pg_ctl -D "C:\Program Files\PostgreSQL\13\data" start```
+    > ```pg_ctl -D "C:\Program Files\PostgreSQL\13\data" start```
 - Stop the server
     ```pg_ctl -D "C:\Program Files\PostgreSQL\13\data" stop```
 - Restart the server
