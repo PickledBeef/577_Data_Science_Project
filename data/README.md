@@ -3,5 +3,6 @@
   It guarantees you have a static dataset for rest of action. 
   Furthermore, we can isolate from data platform unstable issue and network latency issue.
 - processed: To shorten model training time, it is a good idea to persist processed data. It should be generated from "processing" folder.
+- output: Folder for final outputs. It should be generated from answers for the business questions.
 
 PS: I will use local method instead of remote one since the awful loading speed of retrieving data from remote data store.
