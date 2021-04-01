@@ -1,0 +1,78 @@
+ID number
+Name
+year
+ZIP code
+Religious affiliation
+Offers Bachelor's degree
+Applicants total
+Admissions total
+Enrolled total
+Percent of freshmen submitting SAT scores
+Percent of freshmen submitting ACT scores
+SAT Critical Reading 25th percentile score
+SAT Critical Reading 75th percentile score
+SAT Math 25th percentile score
+SAT Math 75th percentile score
+SAT Writing 25th percentile score
+SAT Writing 75th percentile score
+ACT Composite 25th percentile score
+ACT Composite 75th percentile score
+Estimated enrollment, total
+Estimated enrollment, full time
+Estimated undergraduate enrollment, total
+Estimated undergraduate enrollment, full time
+Estimated freshman undergraduate enrollment, total
+Estimated freshman enrollment, full time
+Bachelor's degrees awarded
+Number of students receiving a Bachelor's degree
+Percent admitted - total
+Admissions yield - total
+Tuition and fees, 2010-11
+Tuition and fees, 2011-12
+Tuition and fees, 2012-13
+Tuition and fees, 2013-14
+FIPS state code
+Geographic region
+Level of institution
+Control of institution
+Degree of urbanization (Urban-centric locale)
+Carnegie Classification 2010: Basic
+Full-time enrollment
+Undergraduate enrollment
+Full-time undergraduate enrollment
+Percent of undergraduate enrollment that are American Indian or Alaska Native
+Percent of undergraduate enrollment that are Asian
+Percent of undergraduate enrollment that are Black or African American
+Percent of undergraduate enrollment that are Hispanic/Latino
+Percent of undergraduate enrollment that are Native Hawaiian or Other Pacific Islander
+Percent of undergraduate enrollment that are White
+Percent of undergraduate enrollment that are Nonresident Alien
+Percent of undergraduate enrollment that are Asian/Native Hawaiian/Pacific Islander
+Percent of undergraduate enrollment that are women
+Percent of undergraduate enrollment that are American Indian or Alaska Native
+Percent of undergraduate enrollment that are Asian
+Percent of undergraduate enrollment that are Black or African American
+Percent of undergraduate enrollment that are Hispanic/Latino
+Percent of undergraduate enrollment that are Native Hawaiian or Other Pacific Islander
+Percent of undergraduate enrollment that are Nonresident Alien
+Percent of undergraduate enrollment that are Asian/Native Hawaiian/Pacific Islander
+Percent of undergraduate enrollment that are women
+Number of first-time undergraduates - in-state
+Percent of first-time undergraduates - in-state
+Number of first-time undergraduates - out-of-state
+Percent of first-time undergraduates - out-of-state
+Number of first-time undergraduates - foreign countries
+Percent of first-time undergraduates - foreign countries
+Graduation rate - Bachelor degree within 4 years, total
+Graduation rate - Bachelor degree within 5 years, total
+Graduation rate - Bachelor degree within 6 years, total
+Percent of freshmen receiving any financial aid
+Percent of freshmen receiving federal, state, local or institutional grant aid
+Percent of freshmen  receiving federal grant aid
+Percent of freshmen receiving Pell grants
+Percent of freshmen receiving other federal grant aid
+Percent of freshmen receiving state/local grant aid
+Percent of freshmen receiving institutional grant aid
+Percent of freshmen receiving student loan aid
+Percent of freshmen receiving federal student loans
+Percent of freshmen receiving other loan aid

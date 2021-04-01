@@ -5,8 +5,8 @@
 On the other side, the students have a challenge deciding which colleges they should apply i.e. the colleges that provide best performance at a minimal cost given their own profiles. The student profile is determined by not only the performance in examination such as SAT and ACT, but also other data points such as their ethnicity, immigration status, gender etc.
 We will be interested in answering three main questions for an institute i.e.
 
-(a) What will be a likely enrollment rate?
-(b) What will be a likely graduation rate?
+(a) What will be a likely enrollment rate?<br/>
+(b) What will be a likely graduation rate?<br/>
 (c) Which are the most lucrative colleges for students in terms of pass rate and cost?
 
 - Dataset for this problem:
@@ -16,7 +16,7 @@ We will be interested in answering three main questions for an institute i.e.
 ### Here is the explantation of folder strucure:
 - src: Stores source code (python, R etc) which serves multiple scenarios.<br/> 
     During data exploration and model training, we have to transform data for particular purpose.<br/> 
-    We have to use same code to transfer data during online prediction as well.<br/> 
+    We have to use same code to transfer data during prediction as well.<br/> 
     So it better separates code from notebook such that it serves different purpose.
 - data: Folder for storing subset data for experiments. It includes both raw data, processed data and final output.
 - notebook: Storing all notebooks includeing EDA and modeling stage.
