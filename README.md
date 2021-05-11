@@ -7,10 +7,12 @@ or the proximity to an east-west railroad. But this playground competition's dat
 much more influences price negotiations than the number of bedrooms or a white-picket fence.<br/><br/>
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, 
 this competition challenges you to predict the final price of each home.
+
 - **Goal:**<br/> 
-It is your job to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable. 
+It is your job to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable.
+ 
 - **Dataset for this problem:**<br/>
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data<br/>
 
 ### Explantation for folder strucure:
 - src: Stores source code (python, R etc) which serves multiple scenarios.<br/> 
