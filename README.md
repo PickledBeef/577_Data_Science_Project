@@ -4,7 +4,7 @@
 - **Description:**<br/>
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling 
 or the proximity to an east-west railroad. But this playground competition's dataset proves that 
-much more influences price negotiations than the number of bedrooms or a white-picket fence.<br/><br/>
+much more influences price negotiations than the number of bedrooms or a white-picket fence.<br/>
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, 
 this competition challenges you to predict the final price of each home.
 
@@ -15,12 +15,11 @@ It is your job to predict the sales price for each house. For each Id in the tes
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data<br/>
 
 ### Explantation for folder strucure:
-- src: Stores source code (python, R etc) which serves multiple scenarios.<br/> 
+- src(notebook): Stores source code (python, R etc) which serves multiple scenarios.<br/> 
     During data exploration and model training, we have to transform data for particular purpose.<br/> 
     We have to use same code to transfer data during prediction as well.<br/> 
     So it better separates code from notebook such that it serves different purpose.
 - data: Folder for storing subset data for experiments. It includes both raw data, processed data and final output.
-- notebook: Storing all notebooks includeing EDA and modeling stage.
 
 ### About database I used:
 - [PostgreSQL](https://www.postgresql.org/): The World's Most Advanced Open Source Relational Database

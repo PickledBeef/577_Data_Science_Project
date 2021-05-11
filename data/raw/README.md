@@ -1,5 +1,5 @@
-- Use the dataset provided at https://public.tableau.com/s/sites/default/files/media/Resources/IPEDS_data.xlsx
-- The dataset is "American University Data".
-- The Integrated Postsecondary Education Data System (IPEDS) is the primary source for data 
-  on colleges, universities, and technical and vocational postsecondary institutions 
-  in the United States via the National Center for Education Statistics.
+- Use the dataset provided at https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+- train.csv - the training set
+- test.csv - the test set
+- data_description.txt - full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
+- sample_submission.csv - a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
