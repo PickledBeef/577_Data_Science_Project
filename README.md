@@ -1,17 +1,17 @@
 # Project respository for SP2021.T81.INFO.577.01 - Applied Data Science for Practitioners
 
-### [Business problem from Kaggle](https://www.kaggle.com/sumithbhongale/american-university-data-ipeds-dataset)
-- Most American institutions (that are not necessarily the top 10-20) that provide undergraduate education face a challenge i.e. what kind of students they will make an offer for admission so that they can maintain a good performance in terms of number of students completing their courses in time. They also need to predict how the current batch of intake will perform. The universities cannot relax the entry criteria too much as that way the quality of education that they provide gets diluted. At the other hand, they have to make offers to the candidates who are not only having appropriate profile but are also most likely to accept the offers.
-On the other side, the students have a challenge deciding which colleges they should apply i.e. the colleges that provide best performance at a minimal cost given their own profiles. The student profile is determined by not only the performance in examination such as SAT and ACT, but also other data points such as their ethnicity, immigration status, gender etc.
-We will be interested in answering three main questions for an institute i.e.
+### [Business problem from Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
+- Description:
+Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling 
+or the proximity to an east-west railroad. But this playground competition's dataset proves that 
+much more influences price negotiations than the number of bedrooms or a white-picket fence.
 
-(a) What will be a likely enrollment rate?<br/>
-(b) What will be a likely graduation rate?<br/>
-(c) Which are the most lucrative colleges for students in terms of pass rate and cost?
-
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, 
+this competition challenges you to predict the final price of each home.
+- Goal:
+It is your job to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable. 
 - Dataset for this problem:
-<br/>[“American University Data” IPEDS dataset](https://public.tableau.com/s/sites/default/files/media/Resources/IPEDS_data.xlsx)
-<br/>Enrollment rate and graduation rate using machine learning and IPEDS dataset .
+<br/>https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 ### Here is the explantation of folder strucure:
 - src: Stores source code (python, R etc) which serves multiple scenarios.<br/> 
